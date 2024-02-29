@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <title> Jackf </title>
+       <style>
+      h3:hover {
+        
+      }
+      body {
+        background-color:#4287f5;
+      }
+      h1 {
+        
+      }
+      h2 {
+       
+      }
+      h3 {
+       
+      }
+      p {
+        
+      }
+      span {
+       
+      }
+      nav {
+        position:;
+        top:;
+        right:;
+        margin-right:;
+      }
+      div {
+        background-color:;
+        border-radius:;
+        margin:;
+        border:;
+        padding:;
+        top:;
+        height:;
+        box-shadow:;
+      }
+      header {
+        border-radius:;
+        border:;
+        position:;
+        top:;
+        left:;
+        height:;
+        padding:;
+        margin:;
+        color:;
+        box-shadow:;
+      }
+      footer {
+        border-radius: ;
+        color:;
+        background-color:;
+        padding:;
+        margin:;
+        width:;
+      }
+    </style> 
+  </head>
+  <body>
+
+  </body>
+
+  <footer>
+  </footer>
+</html>
